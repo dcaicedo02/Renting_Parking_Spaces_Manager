@@ -1,0 +1,2 @@
+# Renting_Parking_Spaces_Manager
+This is a simple program I did for a client who owns a company who rents out parkings spaces around two cities in Colombia. This program enables my client to organize his business, identify the available parking spots each day and rent out those which are available. With this program my client was able to increase his efficiency and automate many processes which were previously done manually.    
