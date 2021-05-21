@@ -3,6 +3,6 @@ This is a simple program I did for a client who owns a company which rents out p
 
 For further information of the program functionalities, planning process and evaluation, see the documents within this repository. 
 
-If you want access to the full code, open the "Parking Rent 2 (IA).jar" file attached in the repository.  
+If you want access to the full code, open the "Parking Rent 2 (IA).jar" file attached in the repository.   
 
 
